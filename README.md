@@ -42,5 +42,3 @@
     5. user can register & sign in
     6. admin can view ordered products
     7. admin can change the status of a product (processing, shipped, delivered, etc.)
-
-4. raise a star to support me
