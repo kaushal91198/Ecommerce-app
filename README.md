@@ -25,7 +25,7 @@
    PORT = 5000
    NODE_ENV= development
    MONGO_URL = 'mongodb://localhost/ecommerce'
-   JWT_KEY = 'deadlyboocha'
+   JWT_KEY = YOUR KEY
     ```
 3. <b>deploy this project</b> on your local server by using this command
     ```bash
@@ -43,4 +43,4 @@
     6. admin can view ordered products
     7. admin can change the status of a product (processing, shipped, delivered, etc.)
 
-7. raise a star to support me
+4. raise a star to support me
