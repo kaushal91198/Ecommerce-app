@@ -18,7 +18,7 @@
     cd frontend
     npm install
     ```
-2. go to the backend folder of ecommerce & create .env for connection, PORT, NODE_ENV, MONGO_URL and JWT_KEY.
+2. #### Go to the backend folder of ecommerce & create .env for connection, PORT, NODE_ENV, MONGO_URL and JWT_KEY.
     
     ##### sample code for backend .env
     ```env
